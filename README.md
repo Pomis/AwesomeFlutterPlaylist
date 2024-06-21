@@ -24,11 +24,13 @@ A collection of the best learning materials in the form of video tutorials, arti
 | [Tic Tac Toe](http://myhexaville.com/2018/04/30/flutter-canvas-animations/)     | Custom Paint    | [Link](https://github.com/IhorKlimov/Flutter-Tic-Tac-Toe) | [Ihor Klimov](https://github.com/IhorKlimov) |
 | [Radial Progress](https://medium.com/@rjstech/flutter-custom-paint-tutorial-build-a-radial-progress-6f80483494df) | Custom Paint | | RJSTech |
 | [Bezier Curves](https://iirokrankka.com/2017/09/04/clipping-widgets-with-bezier-curves-in-flutter/) | Clip Path | [Link](https://github.com/roughike/wavy-image-mask) | [Iiro Krankka](https://github.com/roughike) |
+| [Mastering Shapes and Clipping in Flutter](https://medium.com/stackademic/mastering-shapes-and-clipping-in-flutter-7c7caee5bcba) | Clip Path | | [Roman Ismagilov](https://github.com/Pomis) |
 
 ## ListView
 | Tutorial        | Topic    |   Github Repo      | Author/Publisher  |
 | ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
 | [Scroll to Position](http://cogitas.net/scroll-position-flutter-listview/)     | ScrollController    | [Link](https://gist.github.com/MarcinusX/e389a9df7e1082f98d1c8f9b6f66d0d0) | [Natalie Masse Hooper](https://github.com/MarcinusX) |
+| [Common mistakes with ListViews](https://medium.com/@pomis172/common-mistakes-with-listviews-in-flutter-f22e7dacfaf7) | Lazy loading | | [Roman Ismagilov](https://github.com/Pomis) |
 
 
 ## Slivers
